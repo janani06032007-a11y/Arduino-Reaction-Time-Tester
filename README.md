@@ -58,7 +58,7 @@ The project also keeps track of the attempt number and the player's best reactio
 The project was designed and tested using Wokwi Simulator.
 
 Wokwi Project:
-Add your Wokwi project link here.
+https://wokwi.com/projects/477059535904925697
 
 🚀 Future Improvements
 
